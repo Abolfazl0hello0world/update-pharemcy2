@@ -1,0 +1,76 @@
+*{
+    margin: auto;
+    padding: 5px;
+}
+hr {
+    border-width: 2px;
+    margin: auto;
+    
+} 
+.home{
+    margin: auto;
+}
+body{
+
+    background-color: #e3f2fd;
+    padding: 10px;
+
+}
+.information{
+    color: white;
+    border: 2px solid black;
+    border-width: 2px 4px;
+    border-color: red blue;
+    border-style: dashed dotted;
+    background-color:lightslategray;
+    text-align: center;
+    border-radius: 5px
+}
+
+
+.buy .order{
+    background-color:darkslategrey;
+    padding: 50px;
+    border-style: solid;
+    border-color:rgb(241, 165, 165);
+    border-width: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+.buy .types{
+    border: 5px solid tomato;
+    background-color:dimgrey;
+    background-clip:content-box;
+    border-radius: 5px;
+    background-size:500px 250px ;
+}
+.all-main-page{
+
+    color: white;
+    background-color:gray;
+    background-repeat: no-repeat;
+    background-size:100% 875px;
+    background-attachment:scroll;
+
+}
+.all-main-page .about-Treatment-pharmacy{
+    border-bottom: 2px solid blue;
+}
+.syrup{
+    border-bottom: 2px solid blue;
+}
+/*.transform{
+ 
+    width: 200px;
+    height: 200px;
+    background-color: turquoise;
+    transition: width 1s, height 1s, transform 1s;
+}
+.transform:hover {
+    width: 400px;
+    height: 400px;
+    transform: rotate(360deg);
+}/*
+
+
+
